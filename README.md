@@ -7,8 +7,8 @@ I'm Samuel Maiko,a Fullstack Developer from Kenya who is passionate about techno
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
 Talk to me about
-- Web development-**HTML/CSS,Javascript, Reactjs, Tailwindcss**
-- Backend development-**Django, Flask ,MySQL**
+- Web development-**HTML/CSS,Javascript, Reactjs, Tailwindcss, Typescript**
+- Backend development-**Django, Flask ,MySQL, Go**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
